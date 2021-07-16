@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574669325970",
+    "project_id": "vedic-grocery",
+    "storage_bucket": "vedic-grocery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574669325970:android:6bc529f69d76c4c0d7484b",
+        "android_client_info": {
+          "package_name": "com.vedic.groceryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574669325970-hnm2a2bqg7jiaarfavsc1de464307rvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN1b_KwsWfxUkHQuXiKiF7Au2WdcvaGxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574669325970-hnm2a2bqg7jiaarfavsc1de464307rvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
